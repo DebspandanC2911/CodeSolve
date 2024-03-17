@@ -1166,10 +1166,6 @@ body.nav-active { overflow: hidden; }
 
 @media (min-width: 992px) {
 
-  /**
-   * REUSED STYLE
-   */
-
   .container { max-width: 930px; }
 
 
@@ -1255,10 +1251,6 @@ body.nav-active { overflow: hidden; }
  */
 
 @media (min-width: 1200px) {
-
-  /**
-   * REUSED STYLE
-   */
 
   .container { max-width: 1140px; }
 
